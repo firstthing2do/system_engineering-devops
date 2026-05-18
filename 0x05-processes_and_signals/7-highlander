@@ -2,7 +2,6 @@
 # Define the action to take when the SIGTERM signal is caught
 
 trap 'echo "I am invincible!!!"' SIGTERM
-
 # Run the infinite loop
 
 while true
