@@ -1,2 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# A script that show the bash id
+
 pgrep -l bash
